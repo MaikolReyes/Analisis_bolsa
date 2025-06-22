@@ -54,4 +54,15 @@ Cada comparación incluye los siguientes elementos visuales:
 - **Power BI**: diseño de dashboards interactivos.
 - **Visual Studio Code + Git**: gestión del código y documentación.
 - **GitHub**: versionado y exposición del proyecto.
+- **Lenguaje DAX** para creación de medidas y columnas calculadas
+- **Interactividad mediante segmentadores** y filtros cruzados
 
+---
+
+## ✅ Cómo visualizar el proyecto
+
+1. Descargá o cloná el repositorio.
+2. Abrí el archivo `analisis_bolsa.pbix` con Power BI Desktop.
+3. Explorá los gráficos y filtros para interactuar con los datos.
+
+> Este proyecto fue realizado con fines educativos, aplicando conceptos de visualización de datos, diseño de dashboards y análisis de acciones en Power BI.
