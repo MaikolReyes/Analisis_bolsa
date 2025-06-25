@@ -2,7 +2,7 @@
 SELECT Fecha, Ticker,
     ROUND(((Cierre - Apertura) / Apertura) * 100, 2) AS Variacion_Porcentual
 FROM precios
-WHERE Ticker = 'TSLA'
+WHERE Ticker = 'MELI'
 ORDER BY Fecha DESC;
 
 -- 2. Volumen promedio operado por acción
